@@ -1,2 +1,2 @@
 def helloworld():
-    def hai():
+    printf(helloworld):
